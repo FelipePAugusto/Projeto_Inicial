@@ -35,8 +35,8 @@
       </table>
     </div>
     <div class="row">
-      <a class="btn blue" href="{{ route('admin.cursos.adicionar') }}">Adicionar</a>
-
+      <a class="btn blue" href="{{ route('admin.cursos.adicionar') }}">Adicionar Produto</a>
+      <a class="btn green" href="{{route('admin.ordens')}}">Adicionar O.S</a>
     </div>
 
   </div>
